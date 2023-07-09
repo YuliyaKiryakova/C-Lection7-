@@ -3,7 +3,7 @@
 
 // char[] s = { 'а', 'и', 'с', 'в' }
 
-// int count =s.Lehgth;
+// int count = s.Lehgth;
 
 // int n = 1;
 
